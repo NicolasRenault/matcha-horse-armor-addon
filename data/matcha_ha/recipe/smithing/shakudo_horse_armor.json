@@ -1,0 +1,62 @@
+{
+    "type": "minecraft:smithing_transform",
+    "addition": "minecraft:shulker_shell",
+    "base": "minecraft:copper_horse_armor",
+    "result": {
+        "id": "minecraft:diamond_horse_armor",
+        "components": {
+            "minecraft:item_name": {
+                "text": "Shakudo Horse Armor",
+                "color": "#965773"
+            },
+            "minecraft:item_model": "matcha_ha:shakudo_horse_armor",
+            "minecraft:equippable": {
+				"slot": "body",
+                "equip_sound": "minecraft:entity.horse.armor",
+				"asset_id": "matcha_ha:shakudo_horse_armor_model"
+			},
+            "minecraft:lore": [
+                {
+                    "translate": "desc.kleispack.armour",
+                    "with": [
+                        "15"
+                    ],
+                    "color": "dark_green",
+                    "italic": false
+                },
+                {
+                    "translate": "desc.kleispack.armour_toughness",
+                    "with": [
+                        "2"
+                    ],
+                    "color": "dark_green",
+                    "italic": false
+                }
+            ],
+            "minecraft:attribute_modifiers": [
+                {
+                    "type": "minecraft:armor",
+                    "id": "minecraft:armor.horse",
+                    "amount": 15,
+                    "operation": "add_value",
+                    "slot": "body"
+                },
+                {
+                    "type": "minecraft:armor_toughness",
+                    "id": "minecraft:armor_toughness.horse",
+                    "amount": 2,
+                    "operation": "add_value",
+                    "slot": "body"
+                }
+            ],
+            "minecraft:tooltip_display": {
+                "hidden_components": [
+                    "minecraft:attribute_modifiers"
+                ]
+            },
+            "minecraft:custom_data": {
+                "version": 1
+            }
+        }
+    }
+}

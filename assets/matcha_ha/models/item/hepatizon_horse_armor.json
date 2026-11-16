@@ -1,0 +1,6 @@
+{
+	"parent": "minecraft:item/generated",
+	"textures": {
+		"layer0": "matcha_ha:item/hepatizon_horse_armor"
+	}
+}
