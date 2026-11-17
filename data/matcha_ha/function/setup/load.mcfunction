@@ -1,0 +1,1 @@
+schedule function matcha_ha:timers/30s 30s replace
