@@ -7,7 +7,7 @@
         "components": {
             "minecraft:item_name": {
                 "text": "Electrum Horse Armor",
-                "color": "#e6cf7a"
+                "color": "yellow"
             },
             "minecraft:item_model": "matcha_ha:electrum_horse_armor",
             "minecraft:equippable": {
@@ -70,8 +70,11 @@
                 ]
             },
             "minecraft:custom_data": {
-                "version": 1
-            }
+				"version": 1
+			},
+			"minecraft:enchantments": {
+				"matcha:warding_4": 1
+			}
         }
     }
 }
