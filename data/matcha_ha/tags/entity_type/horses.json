@@ -1,0 +1,68 @@
+{
+    "replace": false,
+    "values": [
+        "minecraft:horse",
+        "minecraft:zombie_horse",
+        "minecraft:skeleton_horse", 
+        {
+            "id": "icys-better-horses:american_paint_horse",
+            "required": false
+        },
+        {
+            "id": "icys-better-horses:andalusian_horse",
+            "required": false
+        },
+        {
+            "id": "icys-better-horses:appaloosa_horse",
+            "required": false
+        },
+        {
+            "id": "icys-better-horses:arabian_horse",
+            "required": false
+        },
+        {
+            "id": "icys-better-horses:belgian_horse",
+            "required": false
+        },
+        {
+            "id": "icys-better-horses:clydesdale_horse",
+            "required": false
+        },
+        {
+            "id": "icys-better-horses:friesian_horse",
+            "required": false
+        },
+        {
+            "id": "icys-better-horses:haflinger_horse",
+            "required": false
+        },
+        {
+            "id": "icys-better-horses:icelandic_horse",
+            "required": false
+        },
+        {
+            "id": "icys-better-horses:morgan_horse",
+            "required": false
+        },
+        {
+            "id": "icys-better-horses:mustang_horse",
+            "required": false
+        },
+        {
+            "id": "icys-better-horses:percheron_horse",
+            "required": false
+        },
+        {
+            "id": "icys-better-horses:quarter_horse",
+            "required": false
+        },
+        {
+            "id": "icys-better-horses:shire_horse",
+            "required": false
+        },
+        {
+            "id": "icys-better-horses:thoroughbred_horse",
+            "required": false
+        }
+    ]
+}
