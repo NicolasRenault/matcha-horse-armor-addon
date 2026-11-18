@@ -3,7 +3,7 @@
     "addition": "minecraft:shulker_shell",
     "base": "minecraft:copper_horse_armor",
     "result": {
-        "id": "minecraft:diamond_horse_armor",
+        "id": "minecraft:iron_horse_armor",
         "components": {
             "minecraft:item_name": {
                 "text": "Shakudo Horse Armor",
@@ -13,7 +13,8 @@
             "minecraft:equippable": {
 				"slot": "body",
                 "equip_sound": "minecraft:entity.horse.armor",
-				"asset_id": "matcha_ha:shakudo_horse_armor_model"
+				"asset_id": "matcha_ha:shakudo_horse_armor_model",
+                "allowed_entities": "#matcha_ha:horses"
 			},
             "minecraft:lore": [
                 {

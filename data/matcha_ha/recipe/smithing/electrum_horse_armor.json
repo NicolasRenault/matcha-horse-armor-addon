@@ -13,7 +13,8 @@
             "minecraft:equippable": {
 				"slot": "body",
                 "equip_sound": "minecraft:entity.horse.armor",
-				"asset_id": "matcha_ha:electrum_horse_armor_model"
+				"asset_id": "matcha_ha:electrum_horse_armor_model",
+                "allowed_entities": "#matcha_ha:horses"
 			},
             "minecraft:lore": [
                 {
