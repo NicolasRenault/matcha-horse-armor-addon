@@ -1,6 +1,10 @@
 # Matcha Horse Armor Add-on
 
-This datapack is an add-on / proof of concept based on [this issue](https://github.com/kleiwright/matcha-flavoured/issues/560). It adds Hepatizon, Shakudo, and Electrum horse armor based on Klei's [Matcha Flavoured](https://modrinth.com/datapack/matcha-flavoured) datapack.
+This datapack is an add-on / proof of concept based on [this issue](https://github.com/kleiwright/matcha-flavoured/issues/560). It adds Hepatizon, Shakudo, and Electrum horse armor based on Klei's [Matcha Flavoured](https://modrinth.com/datapack/matcha-flavoured) datapack. This datapack will not work without Matcha Flavoured.
+
+![Horses Screenshot](horses.png)
+
+Electrum assests comes from Klei Wright. I only change the colors for the Hepatizon and Shakudo assets. Please [support Klei](https://ko-fi.com/kleiwright) if you enjoy their work.
 
 ## Features
 
