@@ -1,8 +1,8 @@
 {
   "pack": {
     "description": "Add Matcha Flavoured alloys to horse armors",
-    "pack_format": 102,
+    "pack_format": 121,
     "min_format": [95, 0],
-    "max_format": [110, 0]
+    "max_format": [999, 0]
   }
 }

@@ -1,0 +1,43 @@
+{
+    "parent": "minecraft:recipes/root",
+    "criteria": {
+        "has_leather": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": "minecraft:leather"
+                    }
+                ]
+            }
+        },
+        "has_copper": {
+            "trigger": "minecraft:inventory_changed",
+            "conditions": {
+                "items": [
+                    {
+                        "items": "minecraft:copper_ingot"
+                    }
+                ]
+            }
+        },
+        "has_the_recipe": {
+            "trigger": "minecraft:recipe_unlocked",
+            "conditions": {
+                "recipes": "minecraft:saddle"
+            }
+        }
+    },
+    "requirements": [
+        [
+            "has_the_recipe",
+            "has_leather",
+            "has_copper"
+        ]
+    ],
+    "rewards": {
+        "recipes": [
+            "minecraft:saddle"
+        ]
+    }
+}

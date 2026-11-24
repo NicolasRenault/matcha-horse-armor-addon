@@ -26,6 +26,10 @@ Smith a diamond horse armor with an Electrum alloy.
 
 The Electrum armor gives the Warding 4 effect to the horse wearing it. 
 
+### Copper saddle
+
+Now saddle crafting recipe uses copper ingot instead of iron.
+
 ## Compatibility
 
 The alloyed armors are compatible with [Icy's Better Horses](https://modrinth.com/mod/icys-better-horses) mod. 
